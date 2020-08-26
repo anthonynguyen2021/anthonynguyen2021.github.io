@@ -8,8 +8,7 @@ date: 2016-09-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+I have been a TA for undergraduate math courses since 2016. 
 Heading 1
 ======
 
