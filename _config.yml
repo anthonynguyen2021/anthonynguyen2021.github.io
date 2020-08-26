@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anthony Nguyen"
   avatar           : "profile.png"
-  bio              : "Applied Math PhD Candidate at the University of California, Davis, interested in Stochastic Optimization and its application to Machine Learning."
+  bio              : "Applied Math PhD Candidate at the UC Davis, interested in Stochastic Optimization and its application to Machine Learning."
   location         : "Davis, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
