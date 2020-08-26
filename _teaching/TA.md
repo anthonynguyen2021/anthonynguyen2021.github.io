@@ -10,6 +10,6 @@ location: "City, Country"
 
 I have been a TA for undergraduate math courses since 2016. 
 
-For full details on the topics in each course, see https://www.math.ucdavis.edu/courses/syllabi/
+<a href="https://www.math.ucdavis.edu/courses/syllabi/">Math Course Description</a>
 
-<a href="https://www.math.ucdavis.edu/courses/syllabi/">link text</a>
+
