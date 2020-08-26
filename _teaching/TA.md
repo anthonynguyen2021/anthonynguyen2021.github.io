@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Math courses"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/TA
 venue: "UC Davis"
 date: 2016-09-01
 location: "City, Country"
