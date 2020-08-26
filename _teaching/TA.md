@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant (click for list of TA'd courses)"
+title: "Teaching Assistant"
 collection: teaching
 type: "Math courses"
 permalink: /teaching/TA
