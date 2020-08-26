@@ -28,5 +28,36 @@ Here's a list of courses I have been a TA for unless stated otherwise:
   
 <b> Fall 2017 </b>:
   * MAT 108: Introduction to Mathematical Proofs
+  
+<b> Winter 2018 </b>:
+  * MAT 22A: Linear Algebra
+  
+<b> Spring 2018 </b>:
+  * MAT 167: Applied Linear Algebra
+  
+<b> Summer 2018 </b>:
+  * MAT 21A: Differential Calculus (Sole Instructor)
+  * MAT 128A: Numerical Analysis (Grader)
+  
+<b> Fall 2018 </b>
+  * MAT 21D: Vector Calculus (TA and Lead TA
+  
+<b> Winter 2019 </b>
+  * MAT 167: Applied Linear Algebra
+  
+<b> Spring 2019 </b>
+  * MAT 135A: Probability
+  
+<b> Summer 2019 </b>
+  * MAT 17C: Calculus and Probability with applications in biology (Grader)
+  
+<b> Fall 2019 </b>
+  * MAT 150A: Abstract Algebra
+  
+<b> Winter 2020 </b>
+  * MAT 21D: Vector Calculus and MAT 127C: Multivariable Real Analysis
+  
+<b> Spring 2020 </b> 
+  * MAT 22B: Differential Equations
 
 
