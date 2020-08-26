@@ -8,7 +8,15 @@ date: 2016-09-01
 location: "Davis, USA"
 ---
 
-I have been a TA for undergraduate math courses since 2016. 
+I have been a TA for undergraduate math courses since 2016.
+
+Teaching Assistant (TA): 
+
+Grader: 
+
+Lead TA:
+
+Associate Instructor:
 
 <a href="https://www.math.ucdavis.edu/courses/syllabi/">Math Course Description</a>
 
@@ -62,5 +70,7 @@ Here's a list of courses I have been a TA for unless stated otherwise:
   
 <b> Fall 2020 </b>
   * TBD 
+  
+$ x < y $
 
 
