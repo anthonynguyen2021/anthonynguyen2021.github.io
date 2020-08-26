@@ -10,11 +10,4 @@ location: "City, Country"
 
 I have been a TA for undergraduate math courses since 2016. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+For full details on the topics in each course, see https://www.math.ucdavis.edu/courses/syllabi/
