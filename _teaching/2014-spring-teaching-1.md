@@ -3,8 +3,8 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Math courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of California, Davis"
-date: 2014-01-01
+venue: "UC Davis"
+date: 2016-09-01
 location: "City, Country"
 ---
 
