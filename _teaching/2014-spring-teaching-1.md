@@ -1,9 +1,9 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Math courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of California, Davis"
 date: 2014-01-01
 location: "City, Country"
 ---
