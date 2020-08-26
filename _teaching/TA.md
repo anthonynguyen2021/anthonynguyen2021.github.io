@@ -1,11 +1,11 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant (click for list of TA'd courses)"
 collection: teaching
 type: "Math courses"
 permalink: /teaching/TA
 venue: "UC Davis"
 date: 2016-09-01
-location: "City, Country"
+location: "Davis, USA"
 ---
 
 I have been a TA for undergraduate math courses since 2016. 
