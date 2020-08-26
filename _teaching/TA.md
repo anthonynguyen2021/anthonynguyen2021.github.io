@@ -40,7 +40,7 @@ Here's a list of courses I have been a TA for unless stated otherwise:
   * MAT 128A: Numerical Analysis (Grader)
   
 <b> Fall 2018 </b>
-  * MAT 21D: Vector Calculus (TA and Lead TA
+  * MAT 21D: Vector Calculus (TA and Lead TA)
   
 <b> Winter 2019 </b>
   * MAT 167: Applied Linear Algebra
@@ -59,5 +59,8 @@ Here's a list of courses I have been a TA for unless stated otherwise:
   
 <b> Spring 2020 </b> 
   * MAT 22B: Differential Equations
+  
+<b> Fall 2020 </b>
+  * TBD 
 
 
