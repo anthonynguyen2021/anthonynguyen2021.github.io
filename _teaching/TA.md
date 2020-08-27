@@ -70,7 +70,5 @@ Here's a list of courses I have been a TA for unless stated otherwise:
   
 <b> Fall 2020 </b>
   * TBD 
-  
-$ x < y $
 
 
