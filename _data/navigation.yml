@@ -10,10 +10,10 @@ main:
     url: /teaching/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blogposts/
     
   #- title: "CV"
   #  url: /cv/
