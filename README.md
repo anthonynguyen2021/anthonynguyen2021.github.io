@@ -1,12 +1,12 @@
 ### Notice to self (how to modify my website): 
 
-<b>i) </b> Directory pages allow you to configure .html files such as teaching.html, publications.html, and projects.html. If you need to add an addition tab linked to another html file, go into the data directory and modify navigation.yml. 
+<b>1) </b> Directory pages allow you to configure .html files such as teaching.html, publications.html, and projects.html. If you need to add an addition tab linked to another html file, go into the data directory and modify navigation.yml. 
 
-<b> ii) </b> If you need to modify the about me page (including photos under avatar), add social links, etc., modify config.yml 
+<b> 2) </b> If you need to modify the about me page (including photos under avatar), add social links, etc., modify config.yml 
 
-<b> iii) </b> If you need to change the photos, go to the images directory and replace profile.png for instance, which links to config.yml under avatar section.
+<b> 3) </b> If you need to change the photos, go to the images directory and replace profile.png for instance, which links to config.yml under avatar section.
 
-<b> iv) </b> If you need to modify about me page, go to the pages directory and modify about.md. 
+<b> 4) </b> If you need to modify about me page, go to the pages directory and modify about.md. 
 
 ### ---------------------------------------------------------------------------------------------------
 
