@@ -1,4 +1,4 @@
-How to Use: 
+### Notice to self (how to modify my website): 
 
 i) Directory pages allow you to configure .html files such as teaching.html, publications.html, and projects.html. If you need to add an addition tab linked to another html file, go into the data directory and modify navigation.yml. 
 
