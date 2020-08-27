@@ -10,13 +10,13 @@ location: "Davis, USA"
 
 I have been a TA for undergraduate math courses since 2016.
 
-Teaching Assistant (TA): 
+Teaching Assistant (TA): Hold weekly office hours. Prepare for and Lead discussion section. Answer questions relating to course material. Proctor and mark exams. Enter exam scores in a spreadsheet.  Handle emails relating to course material.
 
-Grader: 
+Grader: Marked students' homework and quizzes and enter scores in a spreadsheet. 
 
-Lead TA:
+Lead TA: Hold weekly office hours. Manage communication between TAs and Instructor of Record. Handle administrative relate emails. 
 
-Associate Instructor:
+Associate Instructor: Sole instructor for the course. Prepare lecture material. Create discussion sheets and exams. Hold weekly office hours. Proctor and mark exams. Handle emails relating to course material. Entered final grades for students.
 
 <a href="https://www.math.ucdavis.edu/courses/syllabi/">Math Course Description</a>
 
@@ -44,7 +44,7 @@ Here's a list of courses I have been a TA for unless stated otherwise:
   * MAT 167: Applied Linear Algebra
   
 <b> Summer 2018 </b>:
-  * MAT 21A: Differential Calculus (Sole Instructor)
+  * MAT 21A: Differential Calculus (Associate Instructor)
   * MAT 128A: Numerical Analysis (Grader)
   
 <b> Fall 2018 </b>
