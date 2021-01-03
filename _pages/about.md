@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome! I am Anthony Nguyen and am currently in my 5th (final) year of my PhD program in Applied Mathematics at the <a href="https://www.math.ucdavis.edu/">University of California, Davis</a>. I work with Professor <a href="https://sites.google.com/view/kriznakumar/home"> Krishna Balasubramanian</a> (PhD advisor) on designing stochastic algorithms and analyzing their convergence properties. 
+Hi, welcome! I am Anthony Nguyen and am currently in my final year of my PhD program in Applied Mathematics at the <a href="https://www.math.ucdavis.edu/">University of California, Davis</a>. I work with Professor <a href="https://sites.google.com/view/kriznakumar/home"> Krishna Balasubramanian</a> (PhD advisor) on designing stochastic algorithms and analyzing their convergence properties. 
 
 <b>I am currently looking for full-time positions in software engineering and data science. Contact me if there is an opportunity!</b>
 
